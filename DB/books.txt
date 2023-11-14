@@ -1,0 +1,1 @@
+[{"name":"Jupiter","age":"1","breed":"Criollo","type":"Cat","id":"0ed469c7-a099-49eb-a760-602a767a09a3"},{"name":"Galaxia","age":"1","breed":"Criolla","type":"Cat","id":"2ef5ff3b-fd5d-435c-910f-810966e3d50d"},{"name":"Rockie","age":"5","breed":"el mejor perro del mundo","type":"Dog","id":"f8bfd7e8-c638-4a72-9cfd-be30ef323d71"}]
